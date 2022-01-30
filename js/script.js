@@ -30,9 +30,8 @@ const cats = [
 ];
 //oppgave 1
 console.log("oppgave 1:");
+
 let cat = {
-  name: "nusse",
-  age: 32,
   complain: function() {
       console.log("meow");
   } 
