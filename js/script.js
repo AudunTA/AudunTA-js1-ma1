@@ -9,23 +9,6 @@ const cats = [
     {
         name: "Blurt",
         age: 21
-    },
-    //more testdata
-    {
-        name:"Donald",
-        age: 3
-    },
-    {
-        name:"Doffen",
-        age: 33
-    },
-    {
-        name:"Mjau",
-
-    },
-    {
-        name:"Dog",
-        age: 723
     }
 ];
 //oppgave 1
