@@ -18,7 +18,7 @@ let cat = {
   complain: function() {
       console.log("meow");
   } 
-}
+};
 
 // to test if the method in the object works
 // cat.complain();
